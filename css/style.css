@@ -56,6 +56,9 @@ table{
     border: 2px solid #000000;
     border-radius: 10px;
 }
+thead,tbody{
+  text-align:center;
+}
 
 .colhead{
   padding: 10px;
