@@ -24,6 +24,13 @@ main{
 h1{
   color: #c12258;
   font-size: 2em;
+  text-align: center;
+  line-height: 2;
+}
+:focus{
+  border-style:dashed;
+  border-width:3px;
+  border-color: #417243;
 }
 
 caption{
