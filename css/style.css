@@ -79,11 +79,14 @@ td,th{
   padding:10px
   
 }
-tr:nth-child(even) {background: #D1D1D1}
-
-table tr:hover {
-  background-color: rbga(126,8,48,.25);
+tr:hover {
+  background-color: rgb(126,8,48);
+  opacity: 0.25;
 }
+
+tr:nth-child(even) {background: #D1D1D1;}
+
+
 
 tr{
 
