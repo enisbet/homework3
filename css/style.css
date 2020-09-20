@@ -75,6 +75,7 @@ table{
 td,th{
   border-top:solid 2px #000000;
   vertical-align: middle;
+  text-align: center;
   padding:10px
   
 }
