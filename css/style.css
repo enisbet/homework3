@@ -75,6 +75,7 @@ td{
   border-top:solid 2px #000000;
   
 }
+tr:nth-child(even) {background: #D1D1D1}
 
 tr{
 
