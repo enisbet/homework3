@@ -79,9 +79,9 @@ td,th{
   padding:10px
   
 }
-tr:hover {
-  background-color: rgb(126,8,48);
-  opacity: 0.25;
+
+tr:nth-child(even):hover, tr:nth-child(odd):hover {
+    background-color: rgba(126,8,48,.25);
 }
 
 tr:nth-child(even) {background: #D1D1D1;}
