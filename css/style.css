@@ -82,7 +82,7 @@ td{
 tr:nth-child(even) {background: #D1D1D1}
 
 tr:hover {
-  background-color: rbg(126,8,48) .25;
+  background-color: rbga(126,8,48,.25);
 }
 
 tr{
