@@ -11,8 +11,8 @@ body{
   color: #000000;
   font-size: 16px;
   margin: 1.2em;
-  font-family: 'Andika', sans-serif;
-  background: url(images/pigeon-background.jpeg), #DDDDDD;
+  font-family: "Andika", sans-serif;
+  background: url("images/pigeon-background.jpeg"), #DDDDDD;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
