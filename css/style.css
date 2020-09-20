@@ -57,6 +57,10 @@ table{
 }
 
 .colhead{
+  padding: 10px;
+  text-align: center;
+  min-width: 125px;
+  text-transform: uppercase;
   background-color: #7e0830;
   color: #FFFFFF;
 }
