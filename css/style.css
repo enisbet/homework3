@@ -91,14 +91,14 @@ tr:nth-child(even) {background: #D1D1D1;}
 
 
 
-tr{
+/* tr{
 
 }
 
 *{
 
 }
-
+ */
 thead tr:first-child th:first-child{border-left:none;}
 
 footer{
