@@ -80,16 +80,16 @@ td,th{
   
 }
 
-tr:hover{
-    background-color: #000000;
-    background-color: rgba(126,8,48,.25);
-    color: #000000;
-    
-}
+
 
 tr:nth-child(even) {background: #D1D1D1;}
 
-
+tr:hover{
+    background-color: #000000 !important;
+    background-color: rgba(126,8,48,.25) !important;
+    color: #000000;
+    
+}
 
 /* tr{
 
