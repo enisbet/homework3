@@ -82,7 +82,7 @@ td,th{
 
 
 
-tr:nth-child(odd) {background: #D1D1D1;}
+tr:nth-child(even) {background: #D1D1D1;}
 
 tr:hover{
     background-color: #000000 !important;
