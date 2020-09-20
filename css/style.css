@@ -53,17 +53,13 @@ a{
 table{
     margin-left: auto;
     margin-right: auto;
-    text-align:center;
     border-collapse:separate;
     border: 2px solid #000000;
     border-radius: 10px;
 }
-thead,tbody{
-  text-align:center;
-}
+
 
 .colhead{
-  padding: 10px;
   text-align: center;
   min-width: 125px;
   text-transform: uppercase;
@@ -72,13 +68,14 @@ thead,tbody{
 }
 
 .rowhead{
-  
    border-right: 2px solid #000000;
    border-top: 2px solid #000000;
 }
 
-td{
+td,th{
   border-top:solid 2px #000000;
+  vertical-align: middle;
+  padding:10px
   
 }
 tr:nth-child(even) {background: #D1D1D1}
